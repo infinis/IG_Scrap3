@@ -14,3 +14,9 @@ Download latest <a href="https://chromedriver.chromium.org/downloads">chromedriv
 Create userProfiles and hashtags files in the root directory (make sure they're empty).<br>
 Set IG_USERNAME and IG_PASSWORD variables. <br>
 Run the script: python IGScrap3.py<br>
+
+<h1>Development roadmap</h1>
+<ul>
+  <li>1.)Add a new feature that will download user's profile picture and store all the info into a single folder (Profile picture + Full name + Username).</li>
+  <li>2.)Integrate proxies.</li>
+  <li>3.)Make the whole program interactive, ask user for their input etc...</li>
