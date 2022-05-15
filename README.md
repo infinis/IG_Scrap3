@@ -10,7 +10,7 @@ Script log you into Instagram account that you provided, searches Instagram post
 
 <h1>How to set up</h1>
 Run the command: pip install -r requirements.txt
-Download latest <a href="https://chromedriver.chromium.org/downloads">chromedriver</>. Make sure you know the path to it.
+Download latest <a href="https://chromedriver.chromium.org/downloads">chromedriver</a>. Make sure you know the path to it.
 Create userProfiles and hashtags files in the root directory (make sure they're empty).
 Set **IG_USERNAME** and **IG_PASSWORD** variables. 
 Run the script: python IGScrap3.py
